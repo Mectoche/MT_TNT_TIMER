@@ -11,8 +11,8 @@
 
 # About.
 - Plugin created by [Mectocheh](https://github.com/Mectoche) using the [Bukkit-API](https://dev.bukkit.org/)
-- This plugin was developed with the aim of publishing YouTube on the neighboring network
-- Multi functional fits any minecraft java server
+- This plugin was developed with the aim of publishing on [YouTube](https://youtu.be/DFBfbGV436w)
+- Multi functional fits any [Minecraft](https://www.minecraft.net/) java server
 # Dowload.
 To download the plugin click [here](https://github.com/Mectoche/MT_TNT_TIMER/tree/main/build/libs)
 
