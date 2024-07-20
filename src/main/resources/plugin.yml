@@ -1,0 +1,6 @@
+name: MTTntTimer
+version: '${version}'
+main: br.com.mectoche.mt_tnttimer.Main
+api-version: '1.21'
+author: Mectoche
+description: Timer for TNT, to improve the gameplay of your minigame in Minecraft.

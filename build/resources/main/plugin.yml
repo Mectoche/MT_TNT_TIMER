@@ -1,0 +1,5 @@
+name: MTTntTimer
+version: '1.0.0'
+main: br.com.mectoche.mt_tnttimer.Main
+api-version: '1.21'
+author: Mectoche
