@@ -6,9 +6,15 @@
 #
 
 # MT_TNT_TIMER
+- Plugin that times the TNT explosion time, made for several Minecraft Java servers.
+#
+
+# About.
 - Plugin created by [Mectocheh](https://github.com/Mectoche) using the [Bukkit-API](https://dev.bukkit.org/)
 - This plugin was developed with the aim of publishing YouTube on the neighboring network
 - Multi functional fits any minecraft java server
+# Dowload.
+To download the plugin click [here](https://github.com/Mectoche/MT_TNT_TIMER/tree/main/build/libs)
 
 #
 
@@ -17,13 +23,4 @@
 | 1.20.x  |    Active     |
 | 1.19.x  |    Legacy     |
 
-#
-
-# Dowload
-To download click [here](https://github.com/Mectoche/MT_TNT_TIMER/tree/main/build/libs)
-
-#
--
-#
--
 #
