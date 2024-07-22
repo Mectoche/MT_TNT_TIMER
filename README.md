@@ -1,7 +1,5 @@
 
-<p aling= "center"> 
-  <a href="https://github.com/Mectoche/MT_TNT_TIMER"><img src="https://i.ibb.co/7KN59G3/tnt-timer-mectoche.png" alt="MTTNTTIMER" border="0"></a>
-</p>
+<p aling= center><a href="https://github.com/Mectoche/MT_TNT_TIMER"><img src="https://i.ibb.co/P41ZcjK/tnt-timer-mectoche.png" alt="MTTNTTIMER" border="0"></a></p>
 
 #
 
