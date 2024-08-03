@@ -1,5 +1,6 @@
-
-<p aling= center><a href="https://github.com/Mectoche/MT_TNT_TIMER"><img src="https://i.ibb.co/P41ZcjK/tnt-timer-mectoche.png" alt="MTTNTTIMER" border="0"></a></p>
+<p align="center">
+<a href="https://github.com/Mectoche/MT_TNT_TIMER"><img src="https://i.ibb.co/P41ZcjK/tnt-timer-mectoche.png" alt="watching" border="0"></a>
+</p>
 
 #                   MECTOCHE TNT TIMER
 - Plugin para **servidores** de Minecraft Java Edition
