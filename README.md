@@ -15,6 +15,9 @@
 | 1.20.x  |    Active     |
 | 1.19.x  |    Legacy     |
 
+# Instalação
+- Para instalar o plugin, basta copiar o arquivo [.jar](https://github.com/Mectoche/MT_TNT_TIMER/tree/main/build/libs) para a pasta plugins do seu servidor de Minecraft e reiniciar o servidor.
+
 # Código
 - Se você quiser visualizar o código-fonte do plugin, pode encontrá-lo no meu repositório no GitHub.
 ```java
@@ -25,13 +28,7 @@ private void tntExplode(TNTPrimed tnt) {
     }
 ```
 
-# Instalação
-- Para instalar o plugin, basta copiar o arquivo [.jar](https://github.com/Mectoche/MT_TNT_TIMER/tree/main/build/libs) para a pasta plugins do seu servidor de Minecraft e reiniciar o servidor.
-
-# Uso
-- Com o plugin já na sua pasta "plugins", entre no seu servidor. Após isso, pegue uma tnt e coloque no chão.
-
 
 
 #
-- Duvidas? Entre em contato comigo!
+- _**Duvidas? Entre em contato comigo!**_
