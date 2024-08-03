@@ -2,9 +2,9 @@
 <p aling= center><a href="https://github.com/Mectoche/MT_TNT_TIMER"><img src="https://i.ibb.co/P41ZcjK/tnt-timer-mectoche.png" alt="MTTNTTIMER" border="0"></a></p>
 
 #                   MECTOCHE TNT TIMER
-- Plugin para servidores de Minecraft Java Edition
+- Plugin para **servidores** de Minecraft Java Edition
 # Sobre
-- O MT_TNT_TIMER foi criado por mim, [Mectocheh](https://github.com/Mectoche), utilizando a [Bukkit-API](https://dev.bukkit.org/). Inicialmente, foi desenvolvido apenas para gravar um speedcoding no YouTube, mas infelizmente o vídeo foi privado.
+- O **MT_TNT_TIMER** foi criado por mim, [Mectocheh](https://github.com/Mectoche), utilizando a [Bukkit-API](https://dev.bukkit.org/). Inicialmente, foi desenvolvido apenas para gravar um speedcoding no YouTube, mas infelizmente o vídeo foi privado.
 
 # Funcionalidades
 - Este plugin é multi-funcional e pode ser utilizado em qualquer servidor de Minecraft nas seguintes versões:
