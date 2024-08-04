@@ -3,7 +3,10 @@
 - ***Plugin para **servidores** de Minecraft Java Edition***
 # _Sobre_
 - _O **MT_TNT_TIMER** foi criado por mim, [Mectocheh](https://github.com/Mectoche), utilizando a [Bukkit-API](https://dev.bukkit.org/). Inicialmente, foi desenvolvido apenas para gravar um speedcoding no YouTube, mas infelizmente o vídeo foi privado._
+  
 - _Multi-funcional e pode ser utilizado em qualquer servidor de Minecraft nas seguintes versões:_
+
+  
 <div class ="version" align="center">
 
 | Version |    Support    |
@@ -13,11 +16,7 @@
 
 </div>
 
-# _Instalação_
-- ***Para instalar o plugin, basta copiar o arquivo [.jar](https://github.com/Mectoche/MT_TNT_TIMER/tree/main/build/libs) para a pasta plugins do seu servidor de Minecraft e reiniciar o servidor.***
-
 # _Código_
-- Se você quiser visualizar o código-fonte do plugin, pode encontrá-lo no meu repositório no GitHub.
 ```java
 private void tntExplode(TNTPrimed tnt) {
         Location location = tnt.getLocation();
