@@ -1,10 +1,9 @@
-
-#                   _MECTOCHE TNT TIMER_
-- ***Plugin para **servidores** de Minecraft Java Edition***
-# _Sobre_
-- _O **MT_TNT_TIMER** foi criado por mim, [Mectocheh](https://github.com/Mectoche), utilizando a [Bukkit-API](https://dev.bukkit.org/). Inicialmente, foi desenvolvido apenas para gravar um speedcoding no YouTube, mas infelizmente o vídeo foi privado._
+# _MECTOCHE TNT TIMER_
+- ***Plugin for **servers** of Minecraft Java Edition***
+# _About_
+- _The **MT_TNT_TIMER** was created by me, [Mectocheh](https://github.com/Mectoche), using the [Bukkit-API](https://dev.bukkit.org/). Initially, it was developed just to record speedcoding on YouTube, but unfortunately the video was made private._
   
-- _Multi-funcional e pode ser utilizado em qualquer servidor de Minecraft nas seguintes versões:_
+- _Multi-functional and can be used on any Minecraft server in the following versions:_
 
   
 <div class ="version" align="center">
@@ -16,7 +15,7 @@
 
 </div>
 
-# _Código_
+# _Code_
 ```java
 private void tntExplode(TNTPrimed tnt) {
         Location location = tnt.getLocation();
@@ -28,7 +27,7 @@ private void tntExplode(TNTPrimed tnt) {
 
 
 #
-- _**Duvidas? Entre em contato comigo!**_
+- _**Doubts? Contact me!**_
 <p align="center">
 <a href="https://github.com/Mectoche/MT_TNT_TIMER"><img src="https://i.ibb.co/P41ZcjK/tnt-timer-mectoche.png" alt="watching" border="0"></a>
 </p>
